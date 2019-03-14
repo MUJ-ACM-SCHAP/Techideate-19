@@ -11,3 +11,7 @@ The final Hackathon of the year organised by MUJ ACM SCHAP to bring together a 
 3. Push it to your forked repository.
 
 4. Create a Pull Request and we will take care of the rest.
+
+
+### Github Cheat Sheet:
+https://education.github.com/git-cheat-sheet-education.pdf
