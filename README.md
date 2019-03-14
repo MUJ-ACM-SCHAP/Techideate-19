@@ -4,7 +4,7 @@ The final Hackathon of the year organised by MUJ ACM SCHAP to bring together a 
 
 ## Instructions:
 
-1. Fork the repository and clone it to your local machine.
+1. Fork the repository and clone it to your PC.
 
 2. Put your code inside the cloned repository.
 
